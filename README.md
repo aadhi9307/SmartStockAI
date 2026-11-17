@@ -23,47 +23,26 @@ through the Groq API.
   Department                          Computer Science and Engineering
                                       (CSE)
 
-  Course ID and Course Name           **\[Enter official course ID and
-                                      course name\]**
+  Course ID and Course Name           21CSC203P - APP
 
-  Subject                             APP --- **\[Confirm official
-                                      subject name\]**
+  Subject                             Advanced Programming Practice
 
-  Academic Year                       **\[Enter academic year\]**
+  Academic Year                       2025-29
 
-  Semester                            **\[Enter semester\]**
+  Semester                            III
 
-  Section                             **\[Enter section\]**
+  Section                             H
 
-  Institution                         **\[Enter institution name\]**
-  -----------------------------------------------------------------------
+  Institution                         SRM Institute of Science and Technology
+  ----------------------------------------------------------------------------
+  Full Name               Register Number   Department  Section  Academic Year                                       
+  ----------------------  ----------------  ----------- ------- --------------
+  Sundar Rajan Aathreya   RA2511003050439      CSE         H        2025-29
 
-### Team Members
+## Mentor
 
-Replace the placeholders with the exact details required by your
-department.
-
-  --------------------------------------------------------------------------
-  Full Name      Register       Department     Section        Academic Year
-                 Number                                       
-  -------------- -------------- -------------- -------------- --------------
-  \[Team Leader  \[Register     CSE            \[Section\]    \[Academic
-  Name\]         Number\]                                     Year\]
-
-  \[Member 2     \[Register     CSE            \[Section\]    \[Academic
-  Name\]         Number\]                                     Year\]
-
-  \[Member 3     \[Register     CSE            \[Section\]    \[Academic
-  Name\]         Number\]                                     Year\]
-
-  \[Member 4     \[Register     CSE            \[Section\]    \[Academic
-  Name\]         Number\]                                     Year\]
-  --------------------------------------------------------------------------
-
-### Mentor
-
--   **Mentor's Full Name:** \[Enter mentor name\]
--   **Designation:** \[Enter designation, if applicable\]
+-   Mentor's Full Name: Dr. S. Shargunam
+-   Designation: Assistant Proffesor
 
 ------------------------------------------------------------------------
 
@@ -415,20 +394,10 @@ Never upload Groq API keys, database passwords, personal credentials, or
 local machine-specific configuration containing secrets. Use environment
 variables or secure local configuration for sensitive values.
 
-## Contributors
-
-Update this section with the actual project contributors before
-submission.
-
--   \[Team Leader Name\] --- \[Register Number\]
--   \[Team Member 2 Name\] --- \[Register Number\]
--   \[Team Member 3 Name\] --- \[Register Number\]
--   \[Team Member 4 Name\] --- \[Register Number\]
-
 ## Mentor
 
--   \[Mentor Name\]
--   \[Designation\]
+-   Dr. S. Shargunam
+-   Assistant Professor
 
 ## License
 
@@ -437,5 +406,4 @@ license has been selected, do not imply that the project has one.
 
 ------------------------------------------------------------------------
 
-**SmartStock AI --- Inventory Management with AI-Assisted Business
-Insights**
+**SmartStock AI --- Inventory Management with AI-Assisted Business Insights**
